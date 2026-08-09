@@ -5,7 +5,6 @@ LangChain Learning
 ```bash
 uv init
 uv add <packages>
-uv venv
 uv sync
 uv pip list
 
@@ -30,3 +29,7 @@ uv run <python-script>
     - Late Chunking
     - Document-Based (Structure-Aware) Chunking
     - Sliding Window Chunking
+    - Code Splitter
+    - MD Splitter
+  - Embeding
+  - Store
