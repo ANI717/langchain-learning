@@ -1,6 +1,7 @@
 # langchain-learning
 LangChain Learning
 
+### Commands
 ```bash
 uv init
 uv add <packages>
@@ -10,3 +11,22 @@ uv pip list
 
 uv run <python-script>
 ```
+
+### Keywords
+- Indexing
+  - Document Loading
+    - TextLoader
+    - PyPDFLoader
+    - CSVLoader
+    - JSONLoader
+    - DirectoryLoader
+    - WebBaseLoader
+    - BSHtmlLoader
+    - FirecrawlLoader
+  - Chunking
+    - Fixed-Size Chunking
+    - Recursive Character Chunking
+    - Semantic Chunking
+    - Late Chunking
+    - Document-Based (Structure-Aware) Chunking
+    - Sliding Window Chunking
