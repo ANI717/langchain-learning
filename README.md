@@ -1,7 +1,6 @@
-# langchain-learning
-LangChain Learning
+# RAG Learning
 
-### Commands
+### Common Commands
 ```bash
 uv init
 uv add <packages>
