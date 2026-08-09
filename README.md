@@ -2,7 +2,7 @@
 
 ### Common Commands
 ```bash
-uv init
+uv init --no-package
 uv add <packages>
 uv sync
 uv pip list
