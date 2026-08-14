@@ -32,3 +32,12 @@ uv run <python-script>
     - MD Splitter
   - Embeding
   - Store
+- Retrieval
+- RAG Chain
+
+### RAG Failures
+- Bad Chunking
+- Embeding Mismatch
+- Retrieval Noise
+- Context Overflow
+- Hallucination
